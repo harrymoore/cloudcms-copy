@@ -1,0 +1,12 @@
+{
+  "name": "importer",
+  "version": "1.0.0",
+  "description": "Create Cloud CMS package from exported content",
+  "main": "package-content.js",
+  "author": "Harry Moore",
+  "license": "ISC",
+  "dependencies": {
+    "cloudcms-packager": "^1.0.4",
+    "dotenv": "^8.2.0"
+  }
+}

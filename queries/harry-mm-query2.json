@@ -1,0 +1,9 @@
+{
+    "associations": {
+        "a:linked": "ANY"
+    },
+    "depth": 1,
+    "types": [
+        "n:node"
+    ]
+}
